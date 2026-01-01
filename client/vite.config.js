@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/wolf_alpha/',
+  base: '/business/',
   server: {
     port: 3000,
     proxy: {
