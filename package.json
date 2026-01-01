@@ -1,0 +1,16 @@
+{
+  "name": "wolf-alpha",
+  "version": "1.0.0",
+  "description": "Wolf Alpha Full-Stack Application",
+  "scripts": {
+    "start": "cd server && node server.js",
+    "install-server": "cd server && npm install",
+    "install-client": "cd client && npm install",
+    "dev-server": "cd server && npm run dev",
+    "dev-client": "cd client && npm run dev",
+    "build-client": "cd client && npm run build"
+  },
+  "keywords": ["wolf-alpha", "full-stack"],
+  "author": "Wolf Alpha",
+  "license": "MIT"
+}
