@@ -1,9 +1,7 @@
-git add README.md
-git rebase --continue
-<<<<<<< HEAD
-# wolf_alpha
-=======
-# Wolf Alpha - Full-Stack Website
+
+## wolf_alpha
+
+## Wolf Alpha - Full-Stack Website
 
 A complete, production-ready full-stack website for Wolf Alpha, a premium software development company.
 
@@ -261,5 +259,5 @@ For issues or questions, contact: hello@wolfalpha.com
 ---
 
 **Built with ❤️ by Wolf Alpha**
->>>>>>> cb5e202 (Initial project commit)
+
 # wolf_alpha
